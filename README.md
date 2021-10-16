@@ -9,8 +9,7 @@ specified.
 Dependencies
 ------------
 
-pytz
-pyyaml
+docker
 
 Usage
 -----
