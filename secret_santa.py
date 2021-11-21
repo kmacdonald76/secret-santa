@@ -131,9 +131,9 @@ Test pairings:
 %s
 
 To send out emails with new pairings,
-call with the --send argument:
+Set "DEBUG: 1" in configuration file
 
-$ python secret_santa.py --send
+$ python secret_santa.py
 
         """ % ("\n".join([str(p) for p in pairs]))
 
