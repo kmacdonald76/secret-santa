@@ -10,6 +10,7 @@ Dependencies
 ------------
 
 docker
+[app-generated password](https://support.google.com/mail/?p=InvalidSecondFactor) for google accounts
 
 Usage
 -----
